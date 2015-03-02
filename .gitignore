@@ -1,3 +1,6 @@
+#Debug Ordner
+Debug/
+
 # Object files
 *.o
 *.ko

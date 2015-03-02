@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Fuellstandsmessung", "Fuellstandsmessung\Fuellstandsmessung.cproj", "{D37EA41C-0A90-41D1-809E-20324EA460C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37EA41C-0A90-41D1-809E-20324EA460C4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D37EA41C-0A90-41D1-809E-20324EA460C4}.Debug|AVR.Build.0 = Debug|AVR
+		{D37EA41C-0A90-41D1-809E-20324EA460C4}.Release|AVR.ActiveCfg = Release|AVR
+		{D37EA41C-0A90-41D1-809E-20324EA460C4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
